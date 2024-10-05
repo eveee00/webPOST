@@ -30,3 +30,7 @@ body {
 .hidden {
     display: none;
 }
+/* it's a different class, so it's necessary. */
+.hidden-content {
+    visibility: hidden;
+}
