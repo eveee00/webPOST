@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'IBM_VGA_8x14';
+    src: url('files/WebPlus_IBM_VGA_8x14.woff') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: IBM_VGA_8x14;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+.mainFont {
+    padding: 10px;
+}
+
+.font {
+    padding-top: 20px;
+    padding-left: 10px;
+;
+}
+
+.idkWhatToNameThis {
+    padding-left: 10px;
+}
+
+.hidden {
+    display: none;
+}
