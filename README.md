@@ -1,4 +1,4 @@
-# webBIOS (Broadcom/MegaRaid please don't sue me)
-An attemt to recreate a POST screen.
+# webPOST
+An attemt to recreate a power-on-self-test screen.
 
 ### Missing stuff: footer and everything else after the initial screen. 
