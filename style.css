@@ -34,3 +34,7 @@ body {
 .hidden-content {
     visibility: hidden;
 }
+
+.drives {
+    padding-left: 50px;
+}
